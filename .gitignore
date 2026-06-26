@@ -1,0 +1,27 @@
+# Hugo build output
+/public/
+
+# Hugo generated files
+/resources/_gen/
+
+# Hugo default config directory (we use hugo.yaml)
+/hugo.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+
+# Backup files
+.backup/
